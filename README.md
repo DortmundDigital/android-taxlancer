@@ -1,11 +1,11 @@
-# android-dancer
+# android-taxlancer
 
-android webview wrapper for dancer homepage
+android webview wrapper for taxlancer.de homepage
 
 # apk release file
 
-https://dancier.github.io/android-dancer/apk/release/app-release.apk
+https://koshisinthehouse.github.io/android-taxlancer/apk/release/app-release.apk
 
 # apk release file debug
 
-https://dancier.github.io/android-dancer/apk/debug/app-debug.apk
+https://koshisinthehouse.github.io/android-taxlancer/apk/debug/app-debug.apk
