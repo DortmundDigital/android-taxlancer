@@ -11,14 +11,14 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Dancier"
+        android:theme="@style/Theme.taxlancer.de"
         tools:targetApi="31">
         <activity
             android:name=".WebViewActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Dancier.Fullscreen">
+            android:theme="@style/Theme.taxlancer.de.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

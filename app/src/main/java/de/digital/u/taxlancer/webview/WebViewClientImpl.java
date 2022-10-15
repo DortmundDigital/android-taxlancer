@@ -1,4 +1,4 @@
-package de.digitalu.taxlancer.webview;
+package de.digital.u.taxlancer.webview;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,9 +9,8 @@ import android.webkit.WebViewClient;
 public class WebViewClientImpl extends WebViewClient {
 
     public static final String DOMAIN = "https://www.taxlancer.de/";
-    //public static final String DOMAIN = "https://domoskanonos.github.io/nidoca-webcomponents/";
 
-    private Activity activity = null;
+    private Activity activity;
 
     public WebViewClientImpl(Activity activity) {
         this.activity = activity;

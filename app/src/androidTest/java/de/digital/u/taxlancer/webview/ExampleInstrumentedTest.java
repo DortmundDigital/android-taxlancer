@@ -1,4 +1,4 @@
-package de.digitalu.taxlancer.webview;
+package de.digital.u.taxlancer.webview;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("de.digitalu.taxlancer.webview", appContext.getPackageName());
+        assertEquals("de.digital.u.taxlancer.webview", appContext.getPackageName());
     }
 }

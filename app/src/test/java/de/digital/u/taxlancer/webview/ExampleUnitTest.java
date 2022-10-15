@@ -1,4 +1,4 @@
-package de.digitalu.taxlancer.webview;
+package de.digital.u.taxlancer.webview;
 
 import org.junit.Test;
 
