@@ -99,10 +99,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/runne
 	android:allowBackup
 		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:14:9-50
 	android:dataExtractionRules
 		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:9:9-65
-activity#de.digitalu.taxlancer.webview.WebViewActivity
+activity#de.digital.u.taxlancer.webview.WebViewActivity
 ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:16:9-27:20
 	android:label
 		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:20:13-45
@@ -111,7 +111,7 @@ ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/An
 	android:configChanges
 		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:18:13-74
 	android:theme
-		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:21:13-60
+		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:21:13-65
 	android:name
 		ADDED from /home/runner/work/android-taxlancer/android-taxlancer/app/src/main/AndroidManifest.xml:17:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
