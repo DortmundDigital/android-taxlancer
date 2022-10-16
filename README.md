@@ -2,13 +2,14 @@
 
 android webview wrapper for https://www.taxlancer.de/ homepage
 
-# apk release file
+# aab file
+    https://koshisinthehouse.github.io/android-taxlancer/bundle/release/app-release.aab
 
-https://dancier.github.io/android-dancer/apk/release/app-release.apk
+# apk release file
+    https://koshisinthehouse.github.io/android-taxlancer/apk/release/app-release.apk
 
 # apk release file debug
-
-https://dancier.github.io/android-dancer/apk/debug/app-debug.apk
+    https://koshisinthehouse.github.io/android-taxlancer/apk/debug/app-debug.apk
 
 # build debug apk for testing
     ./gradlew assembleDebug
